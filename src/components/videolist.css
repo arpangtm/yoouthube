@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0
+}
+.single{
+  margin:40px ;
+  margin-left: 50px; 
+  cursor:pointer;
+}
+.single img{
+    max-width: 250px;
+    max-height:150px;
+}
+
+.desc{
+    display:flex !important;
+    align-items: right !important;
+    align-items: center;
+}
